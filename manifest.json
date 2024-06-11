@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "newTabInterface",
   "description": "A cool extension which runs in Chrome New Tab. Developed By: https://tarikul.dev",
-  "version": "3.4.0",
+  "version": "3.4.2",
   "permissions": ["tabs", "storage"],
   "chrome_url_overrides": {
     "newtab": "index.html"
